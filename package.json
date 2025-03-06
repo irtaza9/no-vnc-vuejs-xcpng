@@ -12,6 +12,8 @@
     "@novnc/novnc": "^1.5.0",
     "@vueuse/core": "^12.5.0",
     "@vueuse/shared": "^12.5.0",
+    "iterable-backoff": "^0.1.0",
+    "js-cookie": "^3.0.5",
     "vue": "^3.5.13"
   },
   "devDependencies": {
